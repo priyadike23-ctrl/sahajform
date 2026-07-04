@@ -1,0 +1,6 @@
+{
+  "name": "SahajForm",
+  "description": "An AI-powered tool that simplifies complex government and legal forms into plain language, with voice support, for low-literacy and visually impaired users.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
